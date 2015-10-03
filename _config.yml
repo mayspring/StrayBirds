@@ -110,7 +110,7 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: mayspring
+  id: minixalpha
 
 
 #################################### global configure #######################################
@@ -123,7 +123,7 @@ highlighter: pygments
 title: 幽蓝星空
 description: Life is a great adventure to swallow whole rather than a checklist to complete...
 theme: modernist
-disqusname: mayspring
+disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes

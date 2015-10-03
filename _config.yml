@@ -120,7 +120,7 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飘落在记忆里的一片星空...
+title: 幽蓝星空
 description: Life is a great adventure to swallow whole rather than a checklist to complete...
 theme: modernist
 disqusname: minixalpha
